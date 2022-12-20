@@ -1,0 +1,2562 @@
+fileFormatVersion: 2
+guid: 266d5abcbeda9410da9826dc45867b3c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Shoes_04_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 705
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbfb4027e49ff4d806a6d908ce3529
+      internalID: 2100645207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 707
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94013fe7c17ad3b40bc5ad94ac325bdb
+      internalID: 227055019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 707
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c45d0ebe08724d8ea7d9f1cfd1d37
+      internalID: 1897653839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 705
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177446acf511f654ba28d7f3a1d3c17f
+      internalID: 1395367047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 707
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab594e0db69c64a9f938d1b1459ceb
+      internalID: 1158662348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 707
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ccbaf4fcd960419ffaaceb9052d57
+      internalID: 258042532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 692
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc8c60c3253894fa4d9ee0a9681208
+      internalID: -576660688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 693
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd93b52558e1b2408c48667a6e1b376
+      internalID: -657637027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 692
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0c3fd9560fa746b4697bf3b50fd08
+      internalID: -331308226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 694
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48decb0b5e788b84ca717db8ef15121b
+      internalID: -1821185533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 693
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b632fd5e2ed11ef4cbc39a8ddf5ba3d4
+      internalID: 2060371436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 700
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f355f728ecfe24468e5e54e6eb5b43f
+      internalID: 1875673396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 691
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d3362df6ff99418c662d5be199240
+      internalID: 1789659483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 692
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7a2b271e48b440a5ca0e89c9770a1
+      internalID: -1509200763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 694
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa2dd93ea11aa4f87e7b17145317fb
+      internalID: 616610300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 693
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d028048b9394a4db20b4c4628c089a
+      internalID: 473226687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 691
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153bc68e0fa70a4a85e23c87fe7fdbe
+      internalID: 2019472288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 700
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37f944cd7d75b43b35779f63406510
+      internalID: 139564355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 600
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb79cc164c4ef4cbbb9d4da5a764e2
+      internalID: 190173792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 595
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a27e50d0c445498d684b672a6e2f3
+      internalID: 885018447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 598
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a892a2b9d94646bdcadc19f7fabfd
+      internalID: 1593914802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 599
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377958527fdc5a46b1f070263052ddd
+      internalID: 1957607776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 599
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167da7c722fae544fabe945b7d814920
+      internalID: -493921301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 597
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60a579be22d6a4fad7372c533b3ee9
+      internalID: -63105968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 602
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75848905f2d970d42952366c4018fb02
+      internalID: -796056534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 597
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55275d7b6b167b4e810f0fe369e31fc
+      internalID: 2145844728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 597
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5098e952951e45a1c889c4b20be5b
+      internalID: 417562691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 596
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0efd6253538c14faf8e81933a21ae2
+      internalID: 627466825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 596
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec193b5acf107564f8818687ed12e85d
+      internalID: 741565559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_29
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 606
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6087c852c0ff5b48b60432530480b6a
+      internalID: 1032969605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 593
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083b0b89c2903748babaacd5a588912
+      internalID: -1671445375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 498
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc1b8226f7710f4b902e70d210a27a1
+      internalID: 873545354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 499
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd315312df3c94a86547a65aa5747f
+      internalID: -1576414494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_33
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 499
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7382f7f8d8052a4bb761a2c3342ff37
+      internalID: -92581577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 505
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacab0476bb11a04baa6d0a5ed92e2ba
+      internalID: 1141150097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 499
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fcb5b05ed539d49b90fe0d8644e518
+      internalID: 1539004176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 501
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9934e15f9eed29740a0f821cfa8797ec
+      internalID: 400363459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_37
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 501
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff320b62a60154b86ea1f5a00ef733
+      internalID: -624719781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 500
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5707cb95ac5bf8c4f8b408a26ee8cee5
+      internalID: 1535430998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 499
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e19d2fb952fb54f9b9c3827d64f73a
+      internalID: 1428369974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 499
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b0b511b9477b4ca39cc9a841b66db
+      internalID: -1364883936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 500
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d86d4f3364d04cbacb4faf1e38f88
+      internalID: 2058989264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 499
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addf9a44270695d488499f87b2d14a10
+      internalID: -658067101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_43
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 503
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef732895eb9f4443b46636634dea08d
+      internalID: 1096658621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 405
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185576fb66998ae4ca16e9c50b4f7543
+      internalID: -122245289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 399
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e36b57cb470e94dbd961ace737dc65
+      internalID: -694703450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 411
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1512d3a08ef542b64b5996ffe703a
+      internalID: -661526748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 399
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59a11186d4ca444ba103e7a0df1052
+      internalID: 1915123058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 410
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cdd835220a4364f9274cf06a4cf241
+      internalID: 606355223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 401
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c850c287735347be20f5e1cb7ffee
+      internalID: -212682397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 402
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ed5aafeb1bb84d9a41630f0a055ec
+      internalID: -1655829685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 399
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c56b447127294caf46c5db8868e2d
+      internalID: 805839950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 402
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60358336624bb664c8880acb7fae718c
+      internalID: 1830007299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 403
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f084b517fd8c3349be7b6aa30f49667
+      internalID: 1394109884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 399
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b2af4df964494bb316f37d42ce935
+      internalID: 984252485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 399
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ac1165405bb4d4b809f6501617e6f0
+      internalID: -983442519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 399
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec18438a3f317ca4ab1ccc9d07a0e0fa
+      internalID: -603918513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 399
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35ad24252030364996375d276e0001b
+      internalID: -86098186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 310
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e00a81a6cf30428b733df8677e6bb
+      internalID: 1567222500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 313
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f045ba662b7892a45b62b789b435b71e
+      internalID: -1657195485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_60
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 306
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed723fa0b7ff44f950d82f6b68ba3d
+      internalID: 810989335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac73de0bc5d13846b3af26b74177ad3
+      internalID: 1585765342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 314
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75d8debf60b8443916a91f4e188324
+      internalID: 1072380607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_63
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 307
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d82f30c191c1244ad7e3c0d484b3c4
+      internalID: 1508347729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 305
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e96244c571fbfd45a633ea5f827ed6e
+      internalID: -1760336724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6ef7400995c9d45b6dfa94d5ec35dc
+      internalID: 379690421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 304
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef27a264c761146ac3fe8b4f64530e
+      internalID: -1319562461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_67
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 304
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2abcd8218e8c5419e37790d4c3892e
+      internalID: 961850002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61063077b21907945ad66e99d0fda84e
+      internalID: -777230711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_69
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 304
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e13b9199d0b9b240a472c8a72c2008b
+      internalID: -1203353857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_70
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 304
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496fa61aa547434ba007c81101ebeba
+      internalID: -641374511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 307
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c2899157b6ab45afc8b201599fc04
+      internalID: -2050230217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 209
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82827e40aa5837b448f1eeba67ba0aa7
+      internalID: 414536912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 215
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d6bc423e0278b4192fe64029b79f2c
+      internalID: 432078376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_74
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 203
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd00b4e8ddb8c3409d55c674f6fe77c
+      internalID: -726878961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 203
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581dfd363e77da9488ee2f30e4154826
+      internalID: -47622076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_76
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f333efdfd704469390ed98f3094d3
+      internalID: 470110627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_77
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 205
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499325132ea6b2f4ea9f2995128653d6
+      internalID: -200799839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_78
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 206
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf27b5de349daeb4d956616bf2b528a3
+      internalID: 809539634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_79
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 203
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a391074aba1e94397a512d4a18de6a
+      internalID: 768658255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_80
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 206
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c31992659b1a8429cc4a015f57dae9
+      internalID: 1811719534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_81
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 207
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b5ba643e9589c4bac5d914641801b2
+      internalID: 981315883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53fbb79f3e493f42b5ac62e7d32a1f5
+      internalID: -875745816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 203
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002dad5c78d9d114fa0c6bcb6375b41c
+      internalID: 644346194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_84
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 203
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ed6682af2cbf4585181b2c03b259b
+      internalID: -1945448381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_85
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 203
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b325ca1f864e446aa4865c7b892a1d
+      internalID: -687616317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 105
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ca82914a8f0541a023f8889902844
+      internalID: 442258894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e93b3348fffd641a9f986dfcac5f03
+      internalID: -1376647199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 106
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07ba96a8cdb934f96084bbdccb0c69
+      internalID: 113813453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_89
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0909329c0831946b896c78c65ae111
+      internalID: -883577717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_90
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c95e186627441647934ee9fbbf4895f
+      internalID: 1202675363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 108
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4aa70e605bd844b0da59d91af762b
+      internalID: 465230305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 108
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf98594b94dce46850628fe261b9b4
+      internalID: -1125269214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_93
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 107
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69756aa93509be147bbfb6f73a2a976e
+      internalID: -277363099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_94
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 106
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d371ce8e8f8edf4fa8bfb5d42dc84e4
+      internalID: -26630552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 107
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bbbf3759b4bc645a3ad9b930966586
+      internalID: 1418511299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_96
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 106
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0690bb54a76f0f42ac4de48d7cf48a3
+      internalID: -960409644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df4d1f46754984c8517cde51a04faa
+      internalID: 1837314404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_98
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 106
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ad3452aae5c345bcdc3bae998ddec
+      internalID: 1792881135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_99
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 12
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5ca9309fbef54eb622a76a0d25347
+      internalID: 1380157119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf48d0a8630cdd4f902ae3d8d008680
+      internalID: 434321362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33caf990d5b06444e9b90903b9e32318
+      internalID: -779887305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99b1e521109b74eb34eed6a9d4ac8e
+      internalID: 414960783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_103
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 11
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca005a1ff8c9244b8b92c2e9b21518c
+      internalID: 689544153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_104
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae1b7e452af4a4c98706b2bbc265ee
+      internalID: -490224642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 9
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2deb05e9e19b40b4ae86a56468910
+      internalID: -1962823108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 9
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4741c65f5720fc468a3730d6bc99632
+      internalID: -1562714002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_107
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 9
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6431c52d0cc3c584db5649b3db06d54c
+      internalID: -1763202318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_108
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3650b5624e0e24484b7dbd07b5fd90
+      internalID: -1511150664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_109
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 18
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe329e2097f264b9775fc6b01d99e9
+      internalID: -1280595015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_110
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 8
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6335fe6d26f33b4ab1afec7d4455a7d
+      internalID: -545700947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shoes_04_111
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ccfc2c6d064f468686f4393b262f3
+      internalID: -195318785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20b6fa450c2ab5a4f9bcbc8bd382e38e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Male_Shoes_04_19: 885018447
+      Male_Shoes_04_27: 627466825
+      Male_Shoes_04_50: -1655829685
+      Male_Shoes_04_53: 1394109884
+      Male_Shoes_04_68: -777230711
+      Male_Shoes_04_108: -1511150664
+      Male_Shoes_04_109: -1280595015
+      Male_Shoes_04_110: -545700947
+      Male_Shoes_04_98: 1792881135
+      Male_Shoes_04_92: -1125269214
+      Male_Shoes_04_102: 414960783
+      Male_Shoes_04_45: -694703450
+      Male_Shoes_04_9: -1821185533
+      Male_Shoes_04_97: 1837314404
+      Male_Shoes_04_65: 379690421
+      Male_Shoes_04_11: 1875673396
+      Male_Shoes_04_23: -63105968
+      Male_Shoes_04_62: 1072380607
+      Male_Shoes_04_87: -1376647199
+      Male_Shoes_04_54: 984252485
+      Male_Shoes_04_33: -92581577
+      Male_Shoes_04_73: 432078376
+      Male_Shoes_04_5: 258042532
+      Male_Shoes_04_28: 741565559
+      Male_Shoes_04_32: -1576414494
+      Male_Shoes_04_10: 2060371436
+      Male_Shoes_04_16: 2019472288
+      Male_Shoes_04_43: 1096658621
+      Male_Shoes_04_74: -726878961
+      Male_Shoes_04_13: -1509200763
+      Male_Shoes_04_30: -1671445375
+      Male_Shoes_04_25: 2145844728
+      Male_Shoes_04_72: 414536912
+      Male_Shoes_04_0: 2100645207
+      Male_Shoes_04_2: 1897653839
+      Male_Shoes_04_77: -200799839
+      Male_Shoes_04_59: -1657195485
+      Male_Shoes_04_64: -1760336724
+      Male_Shoes_04_90: 1202675363
+      Male_Shoes_04_48: 606355223
+      Male_Shoes_04_49: -212682397
+      Male_Shoes_04_93: -277363099
+      Male_Shoes_04_69: -1203353857
+      Male_Shoes_04_56: -603918513
+      Male_Shoes_04_94: -26630552
+      Male_Shoes_04_3: 1395367047
+      Male_Shoes_04_78: 809539634
+      Male_Shoes_04_46: -661526748
+      Male_Shoes_04_71: -2050230217
+      Male_Shoes_04_76: 470110627
+      Male_Shoes_04_12: 1789659483
+      Male_Shoes_04_26: 417562691
+      Male_Shoes_04_51: 805839950
+      Male_Shoes_04_15: 473226687
+      Male_Shoes_04_70: -641374511
+      Male_Shoes_04_29: 1032969605
+      Male_Shoes_04_106: -1562714002
+      Male_Shoes_04_44: -122245289
+      Male_Shoes_04_58: 1567222500
+      Male_Shoes_04_67: 961850002
+      Male_Shoes_04_60: 810989335
+      Male_Shoes_04_39: 1428369974
+      Male_Shoes_04_83: 644346194
+      Male_Shoes_04_47: 1915123058
+      Male_Shoes_04_61: 1585765342
+      Male_Shoes_04_7: -657637027
+      Male_Shoes_04_40: -1364883936
+      Male_Shoes_04_107: -1763202318
+      Male_Shoes_04_79: 768658255
+      Male_Shoes_04_103: 689544153
+      Male_Shoes_04_111: -195318785
+      Male_Shoes_04_105: -1962823108
+      Male_Shoes_04_4: 1158662348
+      Male_Shoes_04_21: 1957607776
+      Male_Shoes_04_63: 1508347729
+      Male_Shoes_04_104: -490224642
+      Male_Shoes_04_18: 190173792
+      Male_Shoes_04_84: -1945448381
+      Male_Shoes_04_101: -779887305
+      Male_Shoes_04_42: -658067101
+      Male_Shoes_04_38: 1535430998
+      Male_Shoes_04_35: 1539004176
+      Male_Shoes_04_52: 1830007299
+      Male_Shoes_04_55: -983442519
+      Male_Shoes_04_66: -1319562461
+      Male_Shoes_04_14: 616610300
+      Male_Shoes_04_85: -687616317
+      Male_Shoes_04_88: 113813453
+      Male_Shoes_04_89: -883577717
+      Male_Shoes_04_100: 434321362
+      Male_Shoes_04_34: 1141150097
+      Male_Shoes_04_75: -47622076
+      Male_Shoes_04_86: 442258894
+      Male_Shoes_04_57: -86098186
+      Male_Shoes_04_91: 465230305
+      Male_Shoes_04_96: -960409644
+      Male_Shoes_04_20: 1593914802
+      Male_Shoes_04_8: -331308226
+      Male_Shoes_04_17: 139564355
+      Male_Shoes_04_37: -624719781
+      Male_Shoes_04_95: 1418511299
+      Male_Shoes_04_24: -796056534
+      Male_Shoes_04_36: 400363459
+      Male_Shoes_04_82: -875745816
+      Male_Shoes_04_80: 1811719534
+      Male_Shoes_04_81: 981315883
+      Male_Shoes_04_31: 873545354
+      Male_Shoes_04_41: 2058989264
+      Male_Shoes_04_1: 227055019
+      Male_Shoes_04_22: -493921301
+      Male_Shoes_04_99: 1380157119
+      Male_Shoes_04_6: -576660688
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

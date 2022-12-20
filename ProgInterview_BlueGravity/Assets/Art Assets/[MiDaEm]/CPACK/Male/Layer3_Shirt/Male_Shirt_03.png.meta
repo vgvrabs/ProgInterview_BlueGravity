@@ -1,0 +1,1682 @@
+fileFormatVersion: 2
+guid: 8238350586c8446a697bac9891ca0c34
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Shirt_03_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 723
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba516f2cfb50746ac1105b260824e1
+      internalID: -764530024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 724
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67657559666b11242a53812c9be804d3
+      internalID: -330533141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 725
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c212591060c2e40b7581429f7b3797
+      internalID: 2066935236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 724
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459a69862453c24eae6785f6ef9cbee
+      internalID: -591603192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 723
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f9d55b5bcefd0479e88c7e8fb55f7b
+      internalID: 594275294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 724
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45889317b695804a86e023dea06a8bd
+      internalID: 536902581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 725
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9bcf5f9facd8a4ab68b0fe488c2e2a
+      internalID: 330561501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 724
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7dd22e351faf548a3ea1f36d1e1c34
+      internalID: -1809569807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 723
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4237d74c390e9d44499c9883de9bf920
+      internalID: 1316323118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 625
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3be5c5954f6e240a5bc729456a023a
+      internalID: 1099807078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 626
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09e3757046d7d40ac68c621060c6df
+      internalID: 1330537224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 627
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d33f067eaf38c46955534300c48261
+      internalID: 2087000623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 626
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c105ea60166af34a893ad63fd09aeda
+      internalID: -2054969867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 625
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba076e8434699841b80fba3773f916c
+      internalID: 1197187230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 626
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f439cc00f4574996afd55c47f0e9e
+      internalID: 1077212946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 627
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc3e233057b604285df85179fd9f41
+      internalID: -1756029845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 626
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b9698a6d14bf4abf3de809b7eace4
+      internalID: -965604090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 625
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b57d414d28cf14aa2b6bf8aadf9bf1
+      internalID: 1930178481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 527
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8eda07c9ec9d468ec869b1a5902bb
+      internalID: -1402696098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 528
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55341977dfd1d43b8ca9823e0f5075
+      internalID: -457627504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 528
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9879e56856c443b32817cc0737801
+      internalID: -1312347889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 528
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bafb4997a401a489be45caab0a7a48
+      internalID: -694710292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 527
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613aa1cd0c1a51c47ab125dc389548f5
+      internalID: -1618910610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 527
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386992202bc51a34ba82d7f7108c4a3b
+      internalID: -556902285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 529
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f8df9696df3d49be1dd28fffef9a9
+      internalID: 714558069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 528
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e93ba1e0655b4e897041c8f50eecb
+      internalID: 1058489633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 527
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92283d0d628a2c84580d8939f4f92485
+      internalID: 1794189989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 428
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718422afc3f0dd64c872145cea6b3004
+      internalID: -1797811883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 429
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ed2092e547214d98242a6559c411d
+      internalID: 1515759567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 430
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ba7b7eed4fbf4b8694a5b1308d5d0
+      internalID: -735142457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 429
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a55e483b27757408d86ac34d859bde
+      internalID: 760967291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_31
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 428
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0ad85722593548a80c5ac850c1348
+      internalID: -2056818616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 429
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2acd5373ee2bb4e8e9c1e556dd1e78
+      internalID: 546026962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_33
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 430
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351968708716f0419aed9b5059a4cd9
+      internalID: 1250572805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_34
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 430
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879383badd0bd5e479699827547266d9
+      internalID: -593355941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 428
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088038927c7dfbe43bbb678cb83d27ad
+      internalID: 8969987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 331
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4936d4c83422ed408d18c41764b2f35
+      internalID: -552336029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 331
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bad5261042e8c4f802cbdf81e5ceef
+      internalID: -1198137185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 332
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ac2353d9cb864cbd1296752806907
+      internalID: -1588623366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 331
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3def5acbe4af47863341fe092ac82
+      internalID: -667920951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 330
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec6b3f085577842ac3dbee9ed25d4c
+      internalID: 220648631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 331
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee073d9cdbb4a494f86ea18ced3a8458
+      internalID: 651297534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 332
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15e3a96e8069d4ba8229ca9076ddec
+      internalID: 935084942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 331
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f34f420d3a88d4bb78407a5699e961
+      internalID: 1535292798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_44
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 330
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b1bd8a883f034cb8a7eac908a980d
+      internalID: 1546479923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24025aeb1a5b6a4b8bb4e6e29167d76
+      internalID: 1270354152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891ff07d2ce07f4287ce2f33e0c3d9e
+      internalID: 1050499515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 234
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e122dd1dd36074699f060463dd2f11
+      internalID: -1879617488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 233
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8177093aea51a429756c71f42f735b
+      internalID: -1119909585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 232
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162f99e1ac80b141a239183d5db9c27
+      internalID: -1716000296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 233
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f33c74902e30043aff0832acfc5d01
+      internalID: 1911212420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 234
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c544d8e5d87024cbee639350e3f495
+      internalID: -874518290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 234
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a64184842a694e9c80ee36852f5f6
+      internalID: -721233100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 232
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f4561707eaca418b13c90e16c5e46
+      internalID: -885372445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_54
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 134
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602ea0252ec25d4098332e79691d289
+      internalID: 1704093414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 135
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5601d4f25fe7eed4e8bbb1003a8090e5
+      internalID: -1468224287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 135
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2b997f82942849a6b24a82abf6550
+      internalID: 1937321554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_57
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 135
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3603663dab6ea43ab21891f7110d6f
+      internalID: -1117627552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 134
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd544aff5b3c1488df00a13f388094
+      internalID: -666468003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_59
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 134
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654dce54bbbcb1f4fa4f2270e55f2b55
+      internalID: 1001006184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239419f69cea674cb3877d7556cba22
+      internalID: -1713392427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_61
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 135
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41edbada6bfef9b4684506bf0c8e87e0
+      internalID: -2081236004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 134
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab4bd4c94f3274c8c8e03dd6270a32
+      internalID: -1481127849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_63
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb7d39526ca4c42a9d25c3b2ce76e3
+      internalID: 1832871109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_64
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 38
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59821f12b35f8498dcd1ed6c2de811
+      internalID: 1763751788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_65
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 39
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65dfb54017aaf4ea3dd15d6fb769ab
+      internalID: 1848858789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_66
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 38
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca6644f8217714f86d452e1c370a52
+      internalID: 917247551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 37
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e981e86e6c70c9b4db413f7dea8d19d3
+      internalID: -1413428105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_68
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26e2d1b1d7d2914298e3ac8ec5d5903
+      internalID: 987401642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 39
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb866132f393be45ae4ff635f882aeb
+      internalID: 1879896686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_70
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 38
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87f5708b4eb5c42b86b1c5b4a7cfd4
+      internalID: 2024661708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Shirt_03_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 37
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444cf8de2ba9d94d8168e96e5d500e2
+      internalID: -499892177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 47fa96974ac425e4390978f47f1b70bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Male_Shirt_03_36: -552336029
+      Male_Shirt_03_42: 935084942
+      Male_Shirt_03_45: 1270354152
+      Male_Shirt_03_57: -1117627552
+      Male_Shirt_03_29: -735142457
+      Male_Shirt_03_0: -764530024
+      Male_Shirt_03_4: 594275294
+      Male_Shirt_03_19: -457627504
+      Male_Shirt_03_56: 1937321554
+      Male_Shirt_03_65: 1848858789
+      Male_Shirt_03_47: -1879617488
+      Male_Shirt_03_48: -1119909585
+      Male_Shirt_03_43: 1535292798
+      Male_Shirt_03_69: 1879896686
+      Male_Shirt_03_32: 546026962
+      Male_Shirt_03_35: 8969987
+      Male_Shirt_03_11: 2087000623
+      Male_Shirt_03_52: -721233100
+      Male_Shirt_03_68: 987401642
+      Male_Shirt_03_40: 220648631
+      Male_Shirt_03_9: 1099807078
+      Male_Shirt_03_8: 1316323118
+      Male_Shirt_03_24: 714558069
+      Male_Shirt_03_66: 917247551
+      Male_Shirt_03_37: -1198137185
+      Male_Shirt_03_25: 1058489633
+      Male_Shirt_03_54: 1704093414
+      Male_Shirt_03_53: -885372445
+      Male_Shirt_03_20: -1312347889
+      Male_Shirt_03_13: 1197187230
+      Male_Shirt_03_34: -593355941
+      Male_Shirt_03_49: -1716000296
+      Male_Shirt_03_28: 1515759567
+      Male_Shirt_03_27: -1797811883
+      Male_Shirt_03_18: -1402696098
+      Male_Shirt_03_46: 1050499515
+      Male_Shirt_03_7: -1809569807
+      Male_Shirt_03_10: 1330537224
+      Male_Shirt_03_39: -667920951
+      Male_Shirt_03_55: -1468224287
+      Male_Shirt_03_50: 1911212420
+      Male_Shirt_03_58: -666468003
+      Male_Shirt_03_60: -1713392427
+      Male_Shirt_03_23: -556902285
+      Male_Shirt_03_5: 536902581
+      Male_Shirt_03_2: 2066935236
+      Male_Shirt_03_41: 651297534
+      Male_Shirt_03_64: 1763751788
+      Male_Shirt_03_71: -499892177
+      Male_Shirt_03_44: 1546479923
+      Male_Shirt_03_30: 760967291
+      Male_Shirt_03_59: 1001006184
+      Male_Shirt_03_15: -1756029845
+      Male_Shirt_03_22: -1618910610
+      Male_Shirt_03_38: -1588623366
+      Male_Shirt_03_21: -694710292
+      Male_Shirt_03_31: -2056818616
+      Male_Shirt_03_17: 1930178481
+      Male_Shirt_03_51: -874518290
+      Male_Shirt_03_14: 1077212946
+      Male_Shirt_03_63: 1832871109
+      Male_Shirt_03_3: -591603192
+      Male_Shirt_03_67: -1413428105
+      Male_Shirt_03_26: 1794189989
+      Male_Shirt_03_62: -1481127849
+      Male_Shirt_03_70: 2024661708
+      Male_Shirt_03_1: -330533141
+      Male_Shirt_03_33: 1250572805
+      Male_Shirt_03_61: -2081236004
+      Male_Shirt_03_6: 330561501
+      Male_Shirt_03_16: -965604090
+      Male_Shirt_03_12: -2054969867
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
